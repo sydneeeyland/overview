@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sydneeeyland" alt="sydneeeyland" /></a> </p>
 
-- 🔭 I’m currently working on **Recipe Blog where, people can share their own recipe to everyone**
+- 🔭 I’m currently working on **WEB App, React Native Mobile Apps**
 
 - 📫 How to reach me **encisosydney19@gmail.com**
 

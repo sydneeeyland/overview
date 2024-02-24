@@ -3,9 +3,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sydneeeyland" alt="sydneeeyland" /></a> </p>
 
-- 🔭 I’m currently working on **WEB App, React Native Mobile Apps**
+- 🔭 I’m currently into **React**
 
-- 📫 How to reach me **encisosydney19@gmail.com**
+- 📫 How to reach me **syd.enciso01@gmail.com**
 
 - ⚡ Fun fact **I do play lots of games especially MMORPGS, I also used to be a varsity player of Football during my college days.**
 
